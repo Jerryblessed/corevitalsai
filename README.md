@@ -11,7 +11,7 @@ CoreVitals AI is a cutting-edge health application built to help busy individual
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jerryblessed/corevitalsai.git
 cd corevitals-ai
 ```
 
